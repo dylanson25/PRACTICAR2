@@ -5,7 +5,9 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/dylanson25/PRACTICAR2"
   },
   "name": "PRACTICAR2"
 }
