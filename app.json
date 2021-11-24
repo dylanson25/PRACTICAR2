@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PRACTICAR2",
+    "slug": "PRACTICAR2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PRACTICAR2"
+}
